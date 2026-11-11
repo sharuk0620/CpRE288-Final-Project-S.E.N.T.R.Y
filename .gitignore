@@ -1,0 +1,14 @@
+# Ignores Debug and Release folders in ANY subfolder
+Debug/
+Release/
+
+# Ignores CCS local state folders in ANY subfolder
+.launches/
+.settings/
+
+# Compiled binaries and object files
+*.obj
+*.out
+*.bin
+*.hex
+*.map
