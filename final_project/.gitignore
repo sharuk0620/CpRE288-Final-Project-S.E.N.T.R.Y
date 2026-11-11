@@ -1,0 +1,7 @@
+# Build output folder shown in CCS
+Debug/
+Release/
+
+# Hidden CCS local state folders on disk
+.launches/
+.settings/
